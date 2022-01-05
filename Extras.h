@@ -1,7 +1,6 @@
 // File: Extras.h
 // Author: Abid Niaz
 // Date: 3-19-18
-// UMBC email: abiniaz1@umbc.edu
 // Description: Contains the function declaration for Extras.cpp
 
 #ifndef EXTRAS_H
