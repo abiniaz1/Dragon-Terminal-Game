@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Dragon.h"
 #include "Game.h"
 #include "Extras.h"
