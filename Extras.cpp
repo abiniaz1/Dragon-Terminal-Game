@@ -1,7 +1,6 @@
 // File: Extras.cpp
 // Author: Abid Niaz
 // Date: 3-19-18
-// UMBC email: abiniaz1@umbc.edu
 // Description: Provides extra functions, specifically for printing sprites
 
 #include "stdafx.h"
