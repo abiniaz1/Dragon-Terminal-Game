@@ -14,26 +14,21 @@ Build the project then run the debugger to run the game in the IDE's terminal
 How to Play:
 When the game starts it will ask for your name. 
 After giving it your name the main menu will appear:
-                          )       \   /      (
-                         /|\      )\_/(     /|\
-*                       / | \    (/\|/\)   / | \                      *
-|`.____________________/__|__o____\`|'/___o__|__\___________________.'|
-|                           '^`    \|/   '^`                          |
-|                                   V                                 |
+  
 |    What would you like to do?	                                      |
 |       1. Search for an egg                                          |
 |       2. Try to hatch egg                                           |
 |       3. Display all dragons and eggs                               |
 |       4. Attack!                                                    |
 |       5. Quit                                                       |
-| ._________________________________________________________________. |
-|'               l    /\ /     \\            \ /\   l                `|
-*                l  /   V       ))            V   \ l                 *
-                 l/            //                  \I
-                               V 
+
 The first menu option allows you to search for eggs of various rarity. You need eggs to hatch into dragons and you need dragons to fight other dragons.
+
 The second option lets you hatch eggs you have found. You can't hatch eggs if you don't have any eggs.
+
 The third option shows all the eggs and dragons you have and their status.
+
 The fourth option lets you battle an enemy dragon. If your dragon defeats the enemy dragon then your dragon will grow bigger.
-  The bigger your dragon, the more likely you are to win.
+The bigger your dragon, the more likely you are to win.
+  
 The fifth and final option lets you quit the game and return to the terminal.
